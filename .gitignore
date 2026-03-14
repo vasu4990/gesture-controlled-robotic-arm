@@ -1,0 +1,30 @@
+# Arduino IDE build output
+build/
+*.elf
+*.hex
+*.map
+*.bin
+
+# Arduino IDE temp files
+*.tmp
+*.bak
+*.orig
+
+# Windows
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Large binary assets (reference locally, not tracked in git)
+docs/demo.mp4
